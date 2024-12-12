@@ -30,7 +30,7 @@ Books by female authors will contain a higher frequency of keywords related to f
 Text corpus collected from Project Gutenberg, a repository of public-domain books.
 
 #### Categorization: 
-Authors' gender will be determined based on biographical information available within the database or secondary sources.
+Authors' gender will be determined based on biographical information available.
 
 ---
 
