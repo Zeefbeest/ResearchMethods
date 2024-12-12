@@ -37,7 +37,7 @@ Authors' gender will be determined based on biographical information available.
 ### Sampling Method
 
 #### Stratified Sampling: 
-A balanced selection of books by male and female authors across various literary genres. Efforts will ensure representation of contemporary and historical texts.
+A balanced selection of books by male and female authors across various literary genres to ensure representation of contemporary and historical texts.
 
 #### Preprocessing: 
 Texts will be cleaned and prepared for analysis (removing stop words, tokenization, etc.).
