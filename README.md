@@ -2,9 +2,9 @@
 
 ## General information
 
-This project examines whether male and female authors differ in the themes they emphasize in their literary works. Specifically, it aims to analyze the frequency of thematic keywords related to family/feelings versus work/sports, providing insights into how gender may influence storytelling. By exploring these differences, the project seeks to contribute to understanding the intersection of gender and creative expression in literature.
+This project examines whether male and female authors differ in their emphasis on family related themes in literary works. Specifically, it examines the presence of family-related keywords in texts to explore potential gender-based differences in storytelling. By focusing on this thematic dimension, the project seeks to uncover insights into how gender influences creative expression in literature.
 
----
+These insights are important for several reasons. Exploring thematic differences can reveal how gendered experiences and perspectives influence storytelling, potentially challenging stereotypes, and broadening the scope of literary analysis. Additionally, this research contributes to ongoing discussions about representation, diversity, and the ways in which gendered voices shape cultural narratives. 
 ## Background information
 - (2003). Gender, genre, and writing style in formal written texts. Text & Talk, 23(3), 321-346. https://doi.org/10.1515/text.2003.014
 - Kissel, S. S. (1981). Double Vision: The Differing Views of Contemporary Male and Female Writers. Frontiers: A Journal of Women Studies, 6(1/2), 39–43. https://doi.org/10.2307/3346489
@@ -13,13 +13,13 @@ This project examines whether male and female authors differ in the themes they 
 ## Research question and hypothesis
 
 ### Research Question
-Do male and female authors differ in the themes they emphasize in books included in Project Gutenberg's collection?
+Do male and female authors differ in the emphasis they place on family-related themes in books included in Project Gutenberg’s collection?
 
 ### Hypothesis
-Books by female authors will contain a higher frequency of keywords related to family and feelings, while books by male authors will emphasize themes around work and sports.
+Books by female authors will emphasize family-related themes more frequently than books by male authors.
 
 - Independent variable: Gender of the author (male or female).
-- Dependent variable: Frequency of keywords related to family/feelings and work/sports in the analyzed texts.
+- Dependent variable: Presence of family-related keywords in the analyzed texts.
 
 ---
 ## Method
@@ -30,7 +30,7 @@ Books by female authors will contain a higher frequency of keywords related to f
 Text corpus collected from Project Gutenberg, a repository of public-domain books.
 
 #### Categorization: 
-Authors' gender will be determined based on biographical information available.
+Authors' gender will be determined based on biographical information.
 
 ---
 
@@ -43,10 +43,10 @@ A balanced selection of books by male and female authors across various literary
 Texts will be cleaned and prepared for analysis (removing stop words, tokenization, etc.).
 
 #### Keyword Extraction: 
-Identification of thematic keywords related to family/feelings and work/sports.
+A curated list of keywords related to family (e.g., “family,” “love,” “child,” “mother,” “father”) will be compiled based on prior research and thematic relevance.
 #### Frequency Analysis: 
-Calculation of keyword frequencies per text and by author gender.
+Analyze the presence of family-related keywords in each text.
+Compare the frequency across male and female authors.
 #### Statistical Tests: 
-Application of statistical methods to identify significant differences in thematic emphasis between male and female authors.
-
+Conduct statistical analyses to determine whether differences in thematic emphasis are significant.
 ---
